@@ -18,7 +18,7 @@ Imagine you work as a data analyst for an e-commerce company in India, referred 
 
 The courier company's invoice in CSV format includes:
 
-- **AWB Number (courier company's internal ID)
+- **AWB Number** (courier company's internal ID)
 - **Order ID** (X's order ID)
 - **Weight of shipment**
 - **Warehouse pickup pincode**
