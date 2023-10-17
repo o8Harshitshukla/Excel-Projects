@@ -57,14 +57,14 @@ Regularly conducting this analysis and verification process helps X ensure accur
 
 Feel free to explore the project repository for code and additional resources.
 
-Output Data 1
-The goal is to create a resultant CSV file with the following columns:
+## Output Data 1
+**The goal is to create a resultant CSV file with the following columns:**
 ![image](https://github.com/o8Harshitshukla/Excel-Projects/assets/147975255/f6d8e8e1-47b6-4599-a5a1-8126973316ee)
 
 
 
-Output Data 2
-Create a summary table
+## Output Data 2
+**Create a summary table**
 
 
 ![image](https://github.com/o8Harshitshukla/Excel-Projects/assets/147975255/b61d087c-9cd9-4712-8de8-a6be5ab8c2fb)
