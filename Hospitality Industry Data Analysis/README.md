@@ -51,6 +51,7 @@ This table provides a summary of crucial metrics for each squad, enabling busine
 
 
 **QUESTION-1.2: Which dataset is most appropriate to get "squad" information with respect to the "Booking created at Date (BCD)" data?**
+
 ![image](https://github.com/o8Harshitshukla/Excel-Projects/assets/147975255/d10c29fa-e899-4336-809f-379b8ef6d08d)
 
 
